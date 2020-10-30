@@ -3,4 +3,4 @@ bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer
 shortLabel LNCaP compartment
 longLabel eigenvalues of LNCaP
 type bigWig
-visibility dense
+visibility full
