@@ -1,0 +1,5 @@
+hub McCordLab_ProstateCancer
+shortLabel ProstateCancer
+longLabel TAD and Compartment of Prostate cancers
+genomesFile
+email rmccord@utk.edu
