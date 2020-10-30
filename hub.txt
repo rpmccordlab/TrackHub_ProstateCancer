@@ -1,5 +1,5 @@
 hub McCordLab_ProstateCancer
 shortLabel ProstateCancer
 longLabel TAD and Compartment of Prostate cancers
-genomesFile
+genomesFile https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer/main/genomes.txt
 email rmccord@utk.edu
