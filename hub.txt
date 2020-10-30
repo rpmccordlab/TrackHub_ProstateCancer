@@ -1,4 +1,4 @@
-hub McCordLab_ProstateCancer
+hub RPMcCordLab_ProstateCancer
 shortLabel ProstateCancer
 longLabel TAD and Compartment of Prostate cancers
 genomesFile https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer/main/genomes.txt
