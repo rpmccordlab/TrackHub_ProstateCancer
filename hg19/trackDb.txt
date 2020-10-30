@@ -4,10 +4,3 @@ shortLabel LNCaP compartment
 longLabel eigenvalues of LNCaP
 type bigWig
 visibility dense
-
-track LNCaP_eigen
-bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer/main/hg19/LNCaP.eigen1.combined.sorted.bedGraph
-shortLabel LNCaP compartment
-longLabel eigenvalues of LNCaP
-type bedGraph
-visibility dense
