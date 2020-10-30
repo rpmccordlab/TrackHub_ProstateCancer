@@ -1,5 +1,5 @@
 track LNCaP_Compartment
-bigDataUrl
+bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer/main/hg19/LNCaP.eigen1.combined.BigWig
 shortLabel LNCaP compartment
 longLabel eigenvalues of LNCaP
 type bigWig
