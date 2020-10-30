@@ -1,0 +1,6 @@
+track LNCaP_Compartment
+bigDataUrl
+shortLabel LNCaP compartment
+longLabel eigenvalues of LNCaP
+type bigWig
+visibility dense
