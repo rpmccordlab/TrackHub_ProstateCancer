@@ -4,3 +4,52 @@ shortLabel LNCaP compartment
 longLabel eigenvalues of LNCaP
 type bigWig
 visibility full
+
+track MDA2A_Compartment
+bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer/main/hg19/MDAPCa2a.eigen1.combined.BigWig
+shortLabel MDA2A compartment
+longLabel eigenvalues of MDA2A
+type bigWig
+visibility full
+
+track MDA2B_Compartment
+bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer/main/hg19/MDAPCa2B.eigen1.combined.BigWig
+shortLabel MDA2B compartment
+longLabel eigenvalues of MDA2B
+type bigWig
+visibility full
+
+track C4-2B_Compartment
+bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer/main/hg19/Prostate-C42B.eigen1.combined.BigWig
+shortLabel C4-2B compartment
+longLabel eigenvalues of C4-2B
+type bigWig
+visibility full
+
+track DU145_Compartment
+bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer/main/hg19/Prostate-DU145.eigen1.combined.BigWig
+shortLabel DU145 compartment
+longLabel eigenvalues of DU145
+type bigWig
+visibility full
+
+track PC3_Compartment
+bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer/main/hg19/Prostate-PC3.eigen1.combined.BigWig
+shortLabel PC3 compartment
+longLabel eigenvalues of PC3
+type bigWig
+visibility full
+
+track VCaP_Compartment
+bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer/main/hg19/Prostate-VCaP.eigen1.combined.BigWig
+shortLabel VCaP compartment
+longLabel eigenvalues of VCaP
+type bigWig
+visibility full
+
+track RWPE_Compartment
+bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer/main/hg19/RWPE_Rhie_eigen1.combined.BigWig
+shortLabel RWPE compartment
+longLabel eigenvalues of RWPE
+type bigWig
+visibility full
