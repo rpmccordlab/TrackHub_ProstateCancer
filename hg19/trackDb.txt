@@ -53,3 +53,10 @@ shortLabel RWPE compartment
 longLabel eigenvalues of RWPE
 type bigWig
 visibility full
+
+track 22RV1_TAD
+bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer/main/hg19/22RV1_TAD_sorted.BigBed
+shortLabel 22RV1 TAD
+longLabel TAD boundaries of 22RV1
+type bigBed
+visibility full
