@@ -47,10 +47,10 @@ longLabel eigenvalues of VCaP
 type bigWig
 visibility full
 
-track RWPE_Compartment
+track RWPE1_Compartment
 bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer/main/hg19/RWPE_Rhie_eigen1.combined.BigWig
-shortLabel RWPE compartment
-longLabel eigenvalues of RWPE
+shortLabel RWPE1 compartment
+longLabel eigenvalues of RWPE1
 type bigWig
 visibility full
 
@@ -59,4 +59,60 @@ bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer
 shortLabel 22RV1 TAD
 longLabel TAD boundaries of 22RV1
 type bigBed
-visibility full
+visibility dense
+
+track C4-2B_TAD
+bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer/main/hg19/C42B-TAD_sorted.BigBed
+shortLabel C4-2B TAD
+longLabel TAD boundaries of C4-2B
+type bigBed
+visibility dense
+
+track DU145_TAD
+bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer/main/hg19/DU145-RC-TAD_sorted.BigBed
+shortLabel DU145 TAD
+longLabel TAD boundaries of DU145
+type bigBed
+visibility dense
+
+track LNCaP_TAD
+bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer/main/hg19/LNCaP-TAD_sorted.BigBed
+shortLabel LNCaP TAD
+longLabel TAD boundaries of LNCaP
+type bigBed
+visibility dense
+
+track MDA2A_TAD
+bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer/main/hg19/MDA2A-TAD_sorted.BigBed
+shortLabel MDA2A TAD
+longLabel TAD boundaries of MDA2A
+type bigBed
+visibility dense
+
+track MDA2B_TAD
+bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer/main/hg19/MDA2B-TAD_sorted.BigBed
+shortLabel MDA2B TAD
+longLabel TAD boundaries of MDA2B
+type bigBed
+visibility dense
+
+track PC3_TAD
+bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer/main/hg19/PC3-TAD_sorted.BigBed
+shortLabel PC3 TAD
+longLabel TAD boundaries of PC3
+type bigBed
+visibility dense
+
+track RWPE1_TAD
+bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer/main/hg19/RWPE1-TAD_sorted.BigBed
+shortLabel RWPE1 TAD
+longLabel TAD boundaries of RWPE1
+type bigBed
+visibility dense
+
+track VCaP_TAD
+bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer/main/hg19/VCaP-TAD_sorted.BigBed
+shortLabel VCaP TAD
+longLabel TAD boundaries of VCaP
+type bigBed
+visibility dense
