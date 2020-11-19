@@ -26,6 +26,13 @@ longLabel eigenvalues of C4-2B
 type bigWig
 visibility full
 
+track 22RV1_Compartment
+bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer/main/hg19/Prostate-22RV1-rhie_combined.BigWig
+shortLabel 22RV1 compartment
+longLabel eigenvalues of 22RV1
+type bigWig
+visibility full
+
 track DU145_Compartment
 bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer/main/hg19/Prostate-DU145.eigen1.combined.BigWig
 shortLabel DU145 compartment
