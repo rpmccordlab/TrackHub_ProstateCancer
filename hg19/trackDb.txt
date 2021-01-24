@@ -137,3 +137,73 @@ shortLabel 22RV1 super enhancer
 longLabel super enhancer of 22RV1
 type bigBed
 visibility dense
+
+track C4-2B_SuperEnhancer_Element
+bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer/main/hg19/C4-2B_SE_ele.BigBed
+shortLabel C4-2B element
+longLabel super enhancer element of C4-2B
+type bigBed
+visibility dense
+
+track C4-2B_SuperEnhancer
+bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer/main/hg19/C4-2B_SE.BigBed
+shortLabel C4-2B super enhancer
+longLabel super enhancer of C4-2B
+type bigBed
+visibility dense
+
+track LNCaP_SuperEnhancer_Element
+bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer/main/hg19/LNCaP_SE_ele.BigBed
+shortLabel LNCaP element
+longLabel super enhancer element of LNCaP
+type bigBed
+visibility dense
+
+track LNCaP_SuperEnhancer
+bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer/main/hg19/LNCaP_SE.BigBed
+shortLabel LNCaP super enhancer
+longLabel super enhancer of LNCaP
+type bigBed
+visibility dense
+
+track PC-3_SuperEnhancer_Element
+bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer/main/hg19/PC-3_SE_ele.BigBed
+shortLabel PC-3 element
+longLabel super enhancer element of PC-3
+type bigBed
+visibility dense
+
+track PC-3_SuperEnhancer
+bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer/main/hg19/PC-3_SE.BigBed
+shortLabel PC-3 super enhancer
+longLabel super enhancer of PC-3
+type bigBed
+visibility dense
+
+track RWPE1_SuperEnhancer_Element
+bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer/main/hg19/RWPE1_SE_ele.BigBed
+shortLabel RWPE1 element
+longLabel super enhancer element of RWPE1
+type bigBed
+visibility dense
+
+track RWPE1_SuperEnhancer
+bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer/main/hg19/RWPE1_SE.BigBed
+shortLabel RWPE1 super enhancer
+longLabel super enhancer of RWPE1
+type bigBed
+visibility dense
+
+track VCaP_SuperEnhancer_Element
+bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer/main/hg19/VCaP_SE_ele.BigBed
+shortLabel VCaP element
+longLabel super enhancer element of VCaP
+type bigBed
+visibility dense
+
+track VCaP_SuperEnhancer
+bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer/main/hg19/VCaP_SE.BigBed
+shortLabel VCaP super enhancer
+longLabel super enhancer of VCaP
+type bigBed
+visibility dense
