@@ -126,7 +126,7 @@ visibility dense
 
 track 22RV1_SuperEnhancer_Element
 bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer/main/hg19/22RV1_SE_ele.BigBed
-shortLabel 22RV1_super_enhancer_element
+shortLabel 22RV1 element
 longLabel super enhancer element of 22RV1
-type bigBeg
+type bigBed
 visibility dense
