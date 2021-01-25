@@ -4,9 +4,8 @@ shortLabel LNCaP compartment
 longLabel eigenvalues of LNCaP
 type bigWig
 autoScale off
-viewLimits -0.8:0.8
+viewLimits -0.08:0.08
 alwaysZero on
-color 255,0,0
 visibility full
 
 track MDA2A_Compartment
@@ -15,9 +14,8 @@ shortLabel MDA2A compartment
 longLabel eigenvalues of MDA2A
 type bigWig
 autoScale off
-viewLimits -0.8:0.8
+viewLimits -0.08:0.08
 alwaysZero on
-color 255,0,0
 visibility full
 
 track MDA2B_Compartment
@@ -25,6 +23,9 @@ bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer
 shortLabel MDA2B compartment
 longLabel eigenvalues of MDA2B
 type bigWig
+autoScale off
+viewLimits -0.08:0.08
+alwaysZero on
 visibility full
 
 track C4-2B_Compartment
@@ -32,6 +33,9 @@ bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer
 shortLabel C4-2B compartment
 longLabel eigenvalues of C4-2B
 type bigWig
+autoScale off
+viewLimits -0.08:0.08
+alwaysZero on
 visibility full
 
 track 22RV1_Compartment
@@ -39,6 +43,9 @@ bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer
 shortLabel 22RV1 compartment
 longLabel eigenvalues of 22RV1
 type bigWig
+autoScale off
+viewLimits -0.08:0.08
+alwaysZero on
 visibility full
 
 track DU145_Compartment
@@ -46,6 +53,9 @@ bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer
 shortLabel DU145 compartment
 longLabel eigenvalues of DU145
 type bigWig
+autoScale off
+viewLimits -0.08:0.08
+alwaysZero on
 visibility full
 
 track PC3_Compartment
@@ -53,6 +63,9 @@ bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer
 shortLabel PC3 compartment
 longLabel eigenvalues of PC3
 type bigWig
+autoScale off
+viewLimits -0.08:0.08
+alwaysZero on
 visibility full
 
 track VCaP_Compartment
@@ -60,6 +73,9 @@ bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer
 shortLabel VCaP compartment
 longLabel eigenvalues of VCaP
 type bigWig
+autoScale off
+viewLimits -0.08:0.08
+alwaysZero on
 visibility full
 
 track RWPE1_Compartment
@@ -67,6 +83,9 @@ bigDataUrl https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer
 shortLabel RWPE1 compartment
 longLabel eigenvalues of RWPE1
 type bigWig
+autoScale off
+viewLimits -0.08:0.08
+alwaysZero on
 visibility full
 
 track 22RV1_TAD
