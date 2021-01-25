@@ -6,6 +6,9 @@ type bigWig
 autoScale off
 viewLimits -0.08:0.08
 viewLimitsMax -0.15:0.15
+maxHeightPixels 100:32:8
+gridDefault on
+color 128,0,128
 alwaysZero on
 visibility full
 
@@ -17,6 +20,9 @@ type bigWig
 autoScale off
 viewLimits -0.08:0.08
 viewLimitsMax -0.15:0.15
+maxHeightPixels 100:32:8
+gridDefault off
+color 0,128,128
 alwaysZero on
 visibility full
 
