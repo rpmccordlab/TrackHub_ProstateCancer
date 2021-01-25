@@ -5,6 +5,8 @@ longLabel eigenvalues of LNCaP
 type bigWig
 autoScale off
 viewLimits -0.8:0.8
+alwaysZero on
+color 255,0,0
 visibility full
 
 track MDA2A_Compartment
@@ -14,6 +16,8 @@ longLabel eigenvalues of MDA2A
 type bigWig
 autoScale off
 viewLimits -0.8:0.8
+alwaysZero on
+color 255,0,0
 visibility full
 
 track MDA2B_Compartment
