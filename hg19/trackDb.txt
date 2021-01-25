@@ -5,6 +5,7 @@ longLabel eigenvalues of LNCaP
 type bigWig
 autoScale off
 viewLimits -0.08:0.08
+viewLimitsMax -0.15:0.15
 alwaysZero on
 visibility full
 
@@ -15,6 +16,7 @@ longLabel eigenvalues of MDA2A
 type bigWig
 autoScale off
 viewLimits -0.08:0.08
+viewLimitsMax -0.15:0.15
 alwaysZero on
 visibility full
 
@@ -25,6 +27,7 @@ longLabel eigenvalues of MDA2B
 type bigWig
 autoScale off
 viewLimits -0.08:0.08
+viewLimitsMax -0.15:0.15
 alwaysZero on
 visibility full
 
@@ -35,6 +38,7 @@ longLabel eigenvalues of C4-2B
 type bigWig
 autoScale off
 viewLimits -0.08:0.08
+viewLimitsMax -0.15:0.15
 alwaysZero on
 visibility full
 
@@ -45,6 +49,7 @@ longLabel eigenvalues of 22RV1
 type bigWig
 autoScale off
 viewLimits -0.08:0.08
+viewLimitsMax -0.15:0.15
 alwaysZero on
 visibility full
 
@@ -55,6 +60,7 @@ longLabel eigenvalues of DU145
 type bigWig
 autoScale off
 viewLimits -0.08:0.08
+viewLimitsMax -0.15:0.15
 alwaysZero on
 visibility full
 
@@ -65,6 +71,7 @@ longLabel eigenvalues of PC3
 type bigWig
 autoScale off
 viewLimits -0.08:0.08
+viewLimitsMax -0.15:0.15
 alwaysZero on
 visibility full
 
@@ -75,6 +82,7 @@ longLabel eigenvalues of VCaP
 type bigWig
 autoScale off
 viewLimits -0.08:0.08
+viewLimitsMax -0.15:0.15
 alwaysZero on
 visibility full
 
@@ -85,6 +93,7 @@ longLabel eigenvalues of RWPE1
 type bigWig
 autoScale off
 viewLimits -0.08:0.08
+viewLimitsMax -0.15:0.15
 alwaysZero on
 visibility full
 
