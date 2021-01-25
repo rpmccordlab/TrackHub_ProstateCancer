@@ -1,0 +1,5 @@
+browser position chr1:0-50000000
+browser hide all
+track name=Prostate description="Prostate cancer" visibility=0 color=0,0,0 useScore=0
+#chrom chromStart chromEnd
+chr1 0 50000000
