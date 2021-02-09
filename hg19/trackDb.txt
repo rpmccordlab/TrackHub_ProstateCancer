@@ -20,6 +20,9 @@ type bigWig
 autoScale off
 viewLimits -0.08:0.08
 viewLimitsMax -0.15:0.15
+wigColorBy myBed
+color 255,0,0
+altColor 0,255,0
 alwaysZero on
 visibility full
 
@@ -31,6 +34,9 @@ type bigWig
 autoScale off
 viewLimits -0.08:0.08
 viewLimitsMax -0.15:0.15
+wigColorBy myBed
+color 255,0,0
+altColor 0,255,0
 alwaysZero on
 visibility full
 
@@ -42,6 +48,9 @@ type bigWig
 autoScale off
 viewLimits -0.08:0.08
 viewLimitsMax -0.15:0.15
+wigColorBy myBed
+color 255,0,0
+altColor 0,255,0
 alwaysZero on
 visibility full
 
@@ -53,6 +62,9 @@ type bigWig
 autoScale off
 viewLimits -0.08:0.08
 viewLimitsMax -0.15:0.15
+wigColorBy myBed
+color 255,0,0
+altColor 0,255,0
 alwaysZero on
 visibility full
 
@@ -64,6 +76,9 @@ type bigWig
 autoScale off
 viewLimits -0.08:0.08
 viewLimitsMax -0.15:0.15
+wigColorBy myBed
+color 255,0,0
+altColor 0,255,0
 alwaysZero on
 visibility full
 
@@ -75,6 +90,9 @@ type bigWig
 autoScale off
 viewLimits -0.08:0.08
 viewLimitsMax -0.15:0.15
+wigColorBy myBed
+color 255,0,0
+altColor 0,255,0
 alwaysZero on
 visibility full
 
@@ -86,6 +104,9 @@ type bigWig
 autoScale off
 viewLimits -0.08:0.08
 viewLimitsMax -0.15:0.15
+wigColorBy myBed
+color 255,0,0
+altColor 0,255,0
 alwaysZero on
 visibility full
 
@@ -97,6 +118,9 @@ type bigWig
 autoScale off
 viewLimits -0.08:0.08
 viewLimitsMax -0.15:0.15
+wigColorBy myBed
+color 255,0,0
+altColor 0,255,0
 alwaysZero on
 visibility full
 
