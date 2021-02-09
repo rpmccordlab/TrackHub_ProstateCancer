@@ -1,4 +1,4 @@
 browser position chr1:00000000-50000000
 browser hide all full LNCaP VCaP
-track name=LNCaP description="LNCaP compartment" type='bigWig' visibility=2 color=255,0,0 useScore=1,500,1000 bigDataUrl="https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer/main/hg19/LNCaP.eigen1.combined.BigWig"
-track name=VCaP description="VCaP compartment" type='bigWig' visibility=2 color=0,0,255 useScore=1,500,1000 bigDataUrl="https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer/main/hg19/Prostate-VCaP.eigen1.combined.BigWig"
+track name=LNCaP description="LNCaP compartment" type='bigWig' visibility=2 color=255,0,0 altColor=0,255,0 useScore=1,500,1000 bigDataUrl="https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer/main/hg19/LNCaP.eigen1.combined.BigWig"
+track name=VCaP description="VCaP compartment" type='bigWig' visibility=2 color=255,0,0 altColor=0,255,0 useScore=1,500,1000 bigDataUrl="https://raw.githubusercontent.com/rpmccordlab/TrackHub_ProstateCancer/main/hg19/Prostate-VCaP.eigen1.combined.BigWig"
